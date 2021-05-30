@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="146c8de9-d9db-4d1f-8bab-9a97ef26fe2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r6VLljNdWzaeJB7IFw1ZStWR7i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.binary search tree">
+    <configuration name="binary search tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary search tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.binary search tree" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="146c8de9-d9db-4d1f-8bab-9a97ef26fe2b" name="Default Changelist" comment="" />
+      <created>1618296476721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618296476721</updated>
+      <workItem from="1618296483250" duration="16740000" />
+      <workItem from="1618366761472" duration="7176000" />
+      <workItem from="1618471185864" duration="9700000" />
+      <workItem from="1618495929983" duration="100000" />
+      <workItem from="1618622190562" duration="8599000" />
+      <workItem from="1620221108242" duration="1469000" />
+      <workItem from="1620260607382" duration="9289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="348" key="GridCell.Tab.0.bottom" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.bottom/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157624" />
+    <state width="1876" height="348" key="GridCell.Tab.0.bottom/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state width="1876" height="348" key="GridCell.Tab.0.center" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.center/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157623" />
+    <state width="1876" height="348" key="GridCell.Tab.0.center/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state width="1876" height="348" key="GridCell.Tab.0.left" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.left/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157623" />
+    <state width="1876" height="348" key="GridCell.Tab.0.left/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state width="1876" height="348" key="GridCell.Tab.0.right" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.right/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157623" />
+    <state width="1876" height="348" key="GridCell.Tab.0.right/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157624" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.center/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157624" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.left/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157624" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1618635831472">
+      <screen x="1920" y="48" width="1280" height="984" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.right/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618628157624" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right/1920.48.1280.984/0.0.1920.1040@1920.48.1280.984" timestamp="1618635831472" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618368378959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.48.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1618368378959" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tree$test.coverage" NAME="test Coverage Results" MODIFIED="1618303275113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tree$binary_search_tree.coverage" NAME="binary search tree Coverage Results" MODIFIED="1618634439701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
