@@ -5,6 +5,9 @@
 # @Software: PyCharm
 
 
+import random
+
+
 class Sort(object):
     """
     十个经典的排序算法
@@ -82,12 +85,39 @@ class Sort(object):
 
         """
 
+    def Quick_Sort(self, nums):
+        """
+        6.快速排序
+        先随机选择一个中间值pivot做为基准，比这个pivot小的放到左边，大的放到右边
+        """
+        n = len(nums)
+
+        def quick_sort(left, right):
+            if left >= right:
+                return nums
+            index = random.randint(left, right)
+            pivot = nums[index]
+            nums[left], nums[index] = nums[index], nums[left]
+            i, j = left, right
+            while i < j:
+                while i < j and nums[j] >= pivot:
+                    j -= 1
+                nums[i], nums[j] = nums[j], nums[i]
+                while i < j and nums[i] < pivot:
+                    i += 1
+                nums[i], nums[j] = nums[j], nums[i]
+            nums[i] = pivot
+            quick_sort(left, i-1)
+            quick_sort(i+1, right)
+            return nums
+        return quick_sort(0, n-1)
+
 
 if __name__ == "__main__":
     nums = [23, 56, 3, 34, 12, 1, 13]
     # nums = [1]
     s = Sort()
-    print("原始数组：",nums)
+    print("原始数组：", nums)
     # 冒泡排序
     # nums_bubble_sort = s.Bubble_Sort(nums)
     # print("冒泡排序后的数组：", nums_bubble_sort)
@@ -101,5 +131,9 @@ if __name__ == "__main__":
     # print("插入排序后的数组：", nums_insertion_sort)
 
     # 希尔排序
-    nums_shell_sort = s.Shell_Sort(nums)
-    print("希尔排序后的数组", nums_shell_sort)
+    # nums_shell_sort = s.Shell_Sort(nums)
+    # print("希尔排序后的数组：", nums_shell_sort)
+
+    # 快速排序
+    nums_quick_sort = s.Quick_Sort(nums)
+    print("快速排序后的数组：", nums_quick_sort)
