@@ -11,17 +11,18 @@ import random
 class Sort(object):
     """
     十个经典的排序算法
-    1.冒泡排序（Bubble Sort）
+    1.冒泡排序（Bubble Sort）         //重点
     2.选择排序（Selection Sort）
     3.插入排序（Insertion Sort）
     4.希尔排序（Shell Sort）
-    5.归并排序（Merge Sort）
-    6.快速排序（Quick Sort）
-    7.堆排序（Heap Sort）
+    5.归并排序（Merge Sort）          //掌握原理
+    6.快速排序（Quick Sort）          //重点
+    7.堆排序（Heap Sort）            //掌握原理
     8.计数排序（Counting Sort）
     9.桶排序（Bucket Sort）
     10.基数排序（Radix Sort）
     """
+
     def Bubble_Sort(self, nums):
         """
         1.冒泡排序
@@ -82,7 +83,7 @@ class Sort(object):
     def Merge_Sort(self, nums):
         """
         5.归并排序
-
+        归并排序，采用是分治法，先将数组分成子序列，让子序列有序，再将子序列间有序，合并成有序数组。
         """
 
     def Quick_Sort(self, nums):
@@ -106,7 +107,7 @@ class Sort(object):
                 while i < j and nums[i] < pivot:
                     i += 1
                 nums[i], nums[j] = nums[j], nums[i]
-            nums[i] = pivot
+            # nums[i] = pivot
             quick_sort(left, i-1)
             quick_sort(i+1, right)
             return nums
