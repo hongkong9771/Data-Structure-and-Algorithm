@@ -20,5 +20,5 @@
 | ------------------ | ------------------------------------------------------------ | ------------ |
 | 十种经典的排序算法 | [冒泡、选择、插入、希尔、归并、快速、堆、计数、桶、基数](https://github.com/hongkong9771/Data-Structure-and-Algorithm/blob/main/Code/Ten%20Sort/whk_sort.py) |              |
 | 背包问题合集       | [01背包、完全背包、多重背包](https://github.com/hongkong9771/Data-Structure-and-Algorithm/tree/main/Code/Pack%20Problem) |              |
-|                    | 爬楼梯的dp版，完全背包版，改进版（每次可爬1-m阶台阶）        |              |
+|                    | [爬楼梯的dp版，完全背包版，改进版（每次可爬1-m阶台阶）](https://github.com/hongkong9771/Data-Structure-and-Algorithm/tree/main/Code/Pack%20Problem/Climbing%20Stairs) |              |
 
