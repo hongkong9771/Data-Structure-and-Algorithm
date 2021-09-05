@@ -56,7 +56,7 @@ class SingleLinkList(object):
         # 头部节点的指针修改为新增加的节点
         self._head = node
 
-    def append(self,item):
+    def append(self, item):
         """在链表尾部添加元素"""
         # 创建一个以item为元素的节点node
         node = Node(item)
