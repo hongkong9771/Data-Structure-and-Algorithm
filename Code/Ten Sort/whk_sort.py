@@ -112,6 +112,44 @@ class Sort(object):
             quick_sort(i+1, right)
             return nums
         return quick_sort(0, n-1)
+        
+        
+        """
+        非递归版本
+        使用栈去存储每次待排序的区间索引
+        """
+        # 非递归版本快排
+        # 单次区间排序
+        def quick_sort(left, right, nums):
+            index = random.randint(left, right)
+            pivot = nums[index]
+            nums[left], nums[index] = nums[index], nums[left]
+            i, j = left, right
+            while i < j:
+                while i < j and nums[j] > pivot:
+                    j -= 1
+                nums[i], nums[j] = nums[j], nums[i]
+                while i < j and nums[i] <= pivot:
+                    i += 1
+                nums[i], nums[j] = nums[j], nums[i]
+            return i    # 分割区间的索引
+
+
+        def Quick_Sort_2(nums):
+            n = len(nums)
+            s = []
+            s.extend([0, n-1])
+            while s:
+                right = s.pop()
+                left = s.pop()
+                if left >= right:
+                    continue
+                else:
+                    mid = quick_sort(left, right, nums)
+                    s.extend([left, mid-1])
+                    s.extend([mid+1, right])
+            return nums
+        
 
 
 if __name__ == "__main__":
