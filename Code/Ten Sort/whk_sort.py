@@ -114,7 +114,6 @@ class Sort(object):
             return nums
         return quick_sort(0, n-1)
 
-
     """
     非递归版本：Quick_Sort_2
     使用栈去存储每次待排序的区间索引

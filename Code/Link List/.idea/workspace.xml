@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a753679-1f28-4eae-8a8c-5ac3c9d4f0f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pack Problem/.idea/Pack Problem.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_leetcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_leetcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whk_bilateral_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/whk_bilateral_link_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whk_single_cycle_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/whk_single_cycle_link_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ten Sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ten Sort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ten Sort/whk_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Ten Sort/whk_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Python Project(Connect Laptop)/Leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.whk_bilateral_link_list">
     <configuration name="whk_bilateral_link_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -116,6 +119,7 @@
       <workItem from="1616553253527" duration="1434000" />
       <workItem from="1617868603173" duration="605000" />
       <workItem from="1630836448208" duration="1275000" />
+      <workItem from="1648370992105" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="update linklist">
       <created>1630836733415</created>

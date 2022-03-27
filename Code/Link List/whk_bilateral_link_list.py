@@ -16,6 +16,7 @@ class Node(object):
         # 初始化节点的指针为None，pre是指向上一个节点的指针
         self.pre = None
 
+
 class BilateralLinkList(object):
     """双向链表类"""
 
@@ -122,6 +123,7 @@ class BilateralLinkList(object):
 
     def find(self, item):
         return item in self.items()
+
 
 if __name__ == '__main__':
     print("双向链表程序开始执行...")

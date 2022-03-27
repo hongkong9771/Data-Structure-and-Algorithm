@@ -13,6 +13,7 @@ class Node(object):
         self.val = val
         self.next = None
 
+
 class MyLinkedList(object):
 
     def __init__(self):
@@ -21,7 +22,6 @@ class MyLinkedList(object):
         """
         self.head = None
         self.len = 0
-
 
     def get(self, index: int) -> int:   # 正确
         """
@@ -36,7 +36,6 @@ class MyLinkedList(object):
             count += 1
         return cur.val
 
-
     def addAtHead(self, val: int) -> None:     # 正确
         """
         Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list.
@@ -45,7 +44,6 @@ class MyLinkedList(object):
         node.next = self.head
         self.head = node
         self.len += 1
-
 
     def addAtTail(self, val: int) -> None:
         """
@@ -60,7 +58,6 @@ class MyLinkedList(object):
                 cur = cur.next
             cur.next = node
         self.len += 1
-
 
     def addAtIndex(self, index: int, val: int) -> None:
         """
@@ -82,7 +79,6 @@ class MyLinkedList(object):
             node.next = cur.next
             cur.next = node
         self.len += 1
-
 
     def deleteAtIndex(self, index: int) -> None:
         """

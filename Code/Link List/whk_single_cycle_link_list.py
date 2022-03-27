@@ -13,6 +13,7 @@ class Node(object):
         # 初始化节点的指针为None，next是指向下一个节点的指针，
         self.next = None
 
+
 class SingleCycleLinkList(object):
     """单向循环链表类"""
 
