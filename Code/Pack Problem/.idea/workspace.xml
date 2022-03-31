@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d288b1c-c7ac-4d1a-9fb7-1eb3052baba3" name="Default Changelist" comment="" />
+    <list default="true" id="3d288b1c-c7ac-4d1a-9fb7-1eb3052baba3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ten Sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ten Sort/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Link List" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.完全背包">
+  <component name="RunManager">
     <configuration name="多重背包" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pack Problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +73,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.完全背包" />
         <item itemvalue="Python.多重背包" />
       </list>
     </recent_temporary>
@@ -98,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630827585634</updated>
       <workItem from="1630827591131" duration="3425000" />
+      <workItem from="1648714505332" duration="839000" />
     </task>
     <servers />
   </component>
