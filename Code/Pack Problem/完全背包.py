@@ -41,7 +41,7 @@ def complete_pack_1(weights, values, bag_weight):
 def complete_pack_2(weights, values, bag_weight):
     """
         一维数组，注意一个物品可以重复使用，所以在dp赋值时，
-        只与它的上一个以及它前面赋完值的有关，则应该从前往后遍历。
+        只与它的上一个以及它前面赋完值的有关（见dp[i][j]的定义），则应该从前往后遍历。
         dp[j] = max(dp[j], dp[j-weights[i]] + values[i])
     """
     l = len(weights)
